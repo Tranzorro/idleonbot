@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=IdleOnButtonClicker
+Comment=click buttons for you. but only for owl and kangaroo.
+Exec=./AppRun
+Icon=IdleOnButtonClicker
+Terminal=false
+Type=Application
+Categories=Game;
+GenericName=autoclicker for idleon.
